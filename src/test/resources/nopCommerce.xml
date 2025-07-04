@@ -6,7 +6,7 @@
     <test name="Run on Edge browser" >
         <parameter name="browser" value="edge" />
         <classes>
-            <class name="nopcommerce.users.Level_01_Register_DRY" />
+            <class name="nopcommerce.users.Level_02_Apply_BasePage_III_Extends" />
         </classes>
     </test>
 
