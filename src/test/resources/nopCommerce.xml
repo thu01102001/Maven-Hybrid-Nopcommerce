@@ -6,22 +6,22 @@
     <test name="Run on Chrome browser" >
         <parameter name="browser" value="Chrome" />
         <classes>
-            <class name="nopcommerce.users.Level_03_Multiple_Browser" />
+            <class name="nopcommerce.users.Level_04_PageObject" />
         </classes>
     </test>
 
-    <test name="Run on Edge browser" >
-        <parameter name="browser" value="Edge" />
-        <classes>
-            <class name="nopcommerce.users.Level_03_Multiple_Browser" />
-        </classes>
-    </test>
+<!--    <test name="Run on Edge browser" >-->
+<!--        <parameter name="browser" value="Edge" />-->
+<!--        <classes>-->
+<!--            <class name="nopcommerce.users.Level_03_Multiple_Browser" />-->
+<!--        </classes>-->
+<!--    </test>-->
 
-    <test name="Run on Firefox browser" >
-        <parameter name="browser" value="Firefox" />
-        <classes>
-            <class name="nopcommerce.users.Level_03_Multiple_Browser" />
-        </classes>
-    </test>
+<!--    <test name="Run on Firefox browser" >-->
+<!--        <parameter name="browser" value="Firefox" />-->
+<!--        <classes>-->
+<!--            <class name="nopcommerce.users.Level_03_Multiple_Browser" />-->
+<!--        </classes>-->
+<!--    </test>-->
 
 </suite>
